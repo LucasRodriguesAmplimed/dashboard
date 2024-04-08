@@ -1,0 +1,19 @@
+.container{
+    border: 1px solid gray;
+    margin: 140px auto;
+    width: 500px;
+    border-radius: 20px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.container h3{
+    font-family: sans-serif;
+    margin-top: 20px;
+}
+
+.button_group{
+    display: flex;
+    justify-content: end;
+}
